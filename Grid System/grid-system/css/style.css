@@ -1,0 +1,144 @@
+header{
+	padding: 15px 0;
+	margin: 0;
+	color: #fff;
+	border-bottom: 2px solid #1C1C1C ;
+	background: #333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+}
+nav ul{
+	font-family: arial, sans-serif;
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a{
+	background: #585858;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+nav a:hover{
+	color: #fff;
+}
+section{
+	margin: 0;
+}
+.principal{
+	background-color: #E6E6E6;
+	border-bottom: 2px solid #BDBDBD;
+	padding: 20px 0 25px;
+}
+
+h3{
+	font-family: arial, sans-serif;
+	color: #333;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+a{
+	text-decoration: none;
+}
+.mas{
+	font-family: arial, sans-serif;
+	font-size: 11px;
+	padding-left: 8px;
+	color: #0040FF;
+}
+.primeros{
+	width: 210px;
+	height: 210px;
+	border: 3px ridge white;
+	position: relative;
+	left: 2px;
+}
+h4{
+	font: bold 16px arial;
+}
+.primerotit{
+	text-align: center;
+	color: #0040FF;
+}
+.secundario{
+	background-color: #fff;
+	padding: 35px 0 0;
+}
+.segundos{
+	height: 100px;
+	width: 100px;
+	border: 3px ridge white;
+}
+h5{
+	font: bold 12px arial;
+	text-align: center;
+	color: #0040FF;
+	margin-bottom: 18px;
+
+}
+.suscripcion{
+	color: #585858;
+	border-bottom: 2px solid #D8D8D8;
+	margin: 20px 0 15px;
+}
+.icon{
+	width: 12px;
+	height: 12px;
+	margin-right: 10px;
+	display: inline-block;
+	float: left;
+}
+p{
+	font: bold 12px arial;
+	color: #585858;
+}
+.itext{
+	font: bold 12px arial;
+	margin-bottom:5px;
+	color: #0040FF;
+}
+footer{
+	background: #585858;
+	padding: 20px 0;
+}
+.finaltext{
+	font: 12px arial;
+	color: #fff;
+}
+.enlace1{
+	font: 12px arial;
+	color: #D8D8D8;
+}
+.finalenlaces ul{
+	list-style-type: none;
+	padding: 20px 0;
+}
+.finalenlaces li{
+	font: 11px arial;
+	display: inline;
+}
+.enlacespie{
+	color: #D8D8D8;
+}
+
+.finalinfo{
+	font: 10px arial;
+	text-align: center;
+	color: #A4A4A4;
+}

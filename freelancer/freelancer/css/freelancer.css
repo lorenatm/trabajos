@@ -1,0 +1,127 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+/*--header--*/
+.bg-dark{
+	background-color: #242E3F;
+}
+.logo{
+	font-size: 2em;
+}
+.lh-1{
+	line-height: 1.5;
+}
+.pd-tb-1{
+	padding: 1% 0;
+}
+h1{
+	margin: 0%;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+/*--super star--*/
+hr#line-star{
+	border-top: 4px solid;
+}
+.pd-5{
+	padding: 5%;
+}
+.bg-green{
+	background-color: #13BDA6;
+}
+.text-white{
+	color: #fff;
+}
+.big-text{
+	font-size: 4em;
+}
+/*--STAR--*/
+.line{
+	padding: 0 40%;
+}
+.pd-0{
+	padding: 0%;
+}
+/*--portfolio--*/
+.mg-tb-1{
+	margin: 1.5% 0;
+}
+.w-100{
+	width: 100%;
+}
+.btn-transparent{
+	border:1px solid #fff;
+}
+.portfolio-img{
+	position: relative;
+}
+.portfolio-img img{
+	width: 100%;
+	display: block;
+}
+.img-hover{
+	background-color: rgba(19,189,166,0.9);
+	width: 100%;
+	height: 100%;
+	position:absolute;
+	top:0;
+	display: none;
+}
+.portfolio-img:hover .img-hover{
+	display: block;
+	color: white;
+	font-size: 4em;
+	padding-top: 25%;
+}
+/*--form--*/
+input.form-control{
+	border: none;
+}
+textarea.form-control{
+	border: none;
+}
+/*footer*/
+.text-green{
+	color: #13BDA6;
+}
+.bg-light{
+	background-color: #273857;
+}
+.pd-lr-10{
+	padding: 0 10%;
+}
+.bg-light i{
+	border: 1px solid #fff;
+	border-radius: 100%;
+	padding: 3%;
+	margin: 0 1%;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline-block;
+}
+.mg-0{
+	margin: 0;
+}
+/*--blog----------------------*/
+.subtitle{
+	font-size: 3em;
+	line-height: 1.2;
+}
+.pd-tb-5{
+	padding: 5% 0;
+}
+.pd-t-5{
+	padding-top: 5%;
+}
+.pd-2{
+	padding: 2%;
+}

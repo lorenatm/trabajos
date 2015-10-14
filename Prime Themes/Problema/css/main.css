@@ -1,0 +1,139 @@
+/*header*/
+.cont-nav{
+	padding: 2%;
+	position: fixed;
+	z-index: 4;
+}
+.fa{
+	font-size: 1.5em;
+	color: #fff;
+	display: inline-block;
+}
+nav{
+	width: 35%;
+	display: inline-block;
+	float: right;
+}
+nav a{
+	padding-left: 7%;
+	font-size: 0.9em;
+}
+nav a:hover{
+	color: #0DC0C0;
+}
+/*img-background*/
+.hero{
+	background-image: url(../img/background/hero.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*.hero:after{
+	content: ' ';
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.4);
+	width: 100%;
+	padding: 40.5%;
+}
+*/
+.dark-background{
+	background-color: rgba(0,0,0,0.6);
+}
+.hero-sizes{
+	padding: 17% 20% 13%;
+}
+.subtitle-primes{
+	font-size: 3em;
+	padding-bottom: 3%;
+}
+.buttom{
+	padding: 2%;
+	background-color: rgba(255,255,255,0.1);
+	display: inline-block;
+	margin: 5%;
+}
+.buttom:hover{
+	background-color:#555;
+}
+/*first-column-info*/
+.colpart{
+	padding: 7% 0%;
+}
+.small-p{
+	font-size: 0.8em;
+}
+/*img-features*/
+.img-features{
+	width: 90%;
+}
+/*second-column-info*/
+.cont-icon{
+	padding-right: 2%;
+}
+.info{
+	width: 90%;
+}
+/*portfolio*/
+.buttom-portfolio{
+	padding: 1% 2%;
+	background-color: #fff;
+	display: inline-block;
+	margin: 0.5%;
+}
+.buttom-portfolio:hover{
+	color: #fff;
+	background-color: #0DC0C0;
+}
+.box{
+	background-color: #fff;
+	box-shadow: 1px 1px 2px #888;
+}
+.buttom-portfolio-b{
+	background-color:#555;
+	padding: 1%;
+}
+/*call to action(image-city)*/
+.first-bg{
+	background-image: url(../img/background/city.jpg);
+}
+.buttom-call{
+	background-color: rgba(255,255,255,0.1);
+	padding: 1%;
+}
+.buttom-call:hover{
+	background-color:#555;
+}
+/*prices*/
+.pd-14{
+	padding: 14%;
+}
+.box-types{
+	border-bottom:1px solid rgb(244,244,244);
+	padding: 6%;
+}
+.buttom-package{
+	background-color:#555;
+	padding: 3% 10%;
+}
+/*customer*/
+.img-circle{
+	border-radius: 50%;
+	width: 12%;
+}
+.testimonial{
+	padding: 5% 15%;
+}
+/*contact*/
+.second-bg{
+	background-image: url(../img/background/contactus.jpg);
+}
+.place-email{
+	background-color: rgba(255,255,255,0.2);
+	width: 90%;
+	font-size: 0.8em;
+}
+.buttom-submit{
+	width: 20%;
+	font-size: 0.8em;
+}
